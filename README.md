@@ -11,3 +11,17 @@ Generate text in the style of a book. This is a character level model which pred
 1. Change the data_path variable to your text corpus name
 1. Train for atleast 20 epochs
 1. Use predict to generate novel text
+
+# Example Output
+
+```
+
+---Generating with seed: " her ears. "why are they ringing the bells?" 
+"the king is dead." sansa could not say how she knew i"
+
+-----temperature:  0.5 
+
+ her ears. "why are they ringing the bells?" 
+"the king is dead." sansa could not say how she knew it was bran up the thought had only the comes of who had warked the time and it is the shear and the
+
+```
